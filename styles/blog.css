@@ -8,3 +8,12 @@ div{
 
 }
 
+h1{
+    
+    text-align: center;
+    font-family: fantasy;
+    background-image:url(../styles/csss.jpg);
+    height: 500px;
+    font-size: 50px;
+
+}
